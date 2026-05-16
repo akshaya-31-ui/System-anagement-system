@@ -202,17 +202,17 @@ Enter your choice:
 
 ## Key Concepts Demonstrated
 
-- **Immutability** — `Student` class is `final` with all `private final` fields
-- **Encapsulation** — data hidden behind getters, no public fields
-- **Collections** — `LinkedHashMap` preserves insertion order
-- **File I/O** — persistent storage across program sessions
-- **Exception Handling** — program never crashes on bad input
-- **Bubble Sort** — implemented from scratch without Comparator
-- **Package Structure** — MVC-style separation of concerns
+- Immutability — `Student` class is `final` with all `private final` fields
+- Encapsulation — data hidden behind getters, no public fields
+- Collections — `LinkedHashMap` preserves insertion order
+- File I/O — persistent storage across program sessions
+- Exception Handling — program never crashes on bad input
+- Bubble Sort — implemented from scratch without Comparator
+- Package Structure — MVC-style separation of concerns
 
-## 👩‍💻 Author
+## Author
 
 **Balabhadra Sri Naga Vasavi Lakshmi Akshaya**
 B.Tech CSE — Vignan's Institute of Engineering for Women -- 2027 
-📧 akshayabalabhadra@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/srinagab/)
+mail - akshayabalabhadra@gmail.com  
+Linkedin - (https://www.linkedin.com/in/srinagab/)
