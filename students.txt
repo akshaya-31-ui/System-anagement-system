@@ -1,6 +1,0 @@
-1,Akshaya,99.0
-2,supriya,88.0
-3,ashok,89.0
-4,yashmi,68.0
-5,Arjun,100.0
-6,Yamini,91.0
